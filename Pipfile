@@ -4,10 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
+autopep8 = "*"
+flake8 = "*"
+pytest = "*"
 
 [packages]
 pandas = "*"
 numpy = "*"
-
-[requires]
-python_version = "3.6"
+matplotlib = "*"
+click = "*"
