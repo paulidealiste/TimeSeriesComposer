@@ -2,6 +2,7 @@
 tests/err.txt
 tests/out.txt
 tests/tsdump.json
+tests/tssdump.json
 tests/__pycache__/
 time_series_composer/__pycache__/
 TimeSeriesComposer.egg-info/
